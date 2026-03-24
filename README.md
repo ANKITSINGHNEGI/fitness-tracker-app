@@ -30,15 +30,34 @@ A full-stack fitness tracking application to manage workouts, nutrition, and dai
 
 ---
 
-## 📸 Screenshot
-![App Screenshot](1. Base.png)
-![App Screenshot](2. Login.png)
-![App Screenshot](3. Signup.png)
-![App Screenshot](4. Dashboard.png)
-![App Screenshot](5. Workout.png)
-![App Screenshot](6. Nutrition.png)
-![App Screenshot](6. Progress.png)
-![App Screenshot](7. Profile.png)
+## 📸 Screenshots
+
+### Landing (Base)
+<p align="center">
+  <img src="screenshots/base.png" width="60%" />
+</p>
+
+### Dashboard & Nutrition
+<p align="center">
+  <img src="screenshots/dashboard.png" width="45%" />
+  <img src="screenshots/nutrition.png" width="45%" />
+</p>
+
+### Workouts & Progress
+<p align="center">
+  <img src="screenshots/workout.png" width="45%" />
+  <img src="screenshots/progress.png" width="45%" />
+</p>
+
+### Profile & Auth
+<p align="center">
+  <img src="screenshots/profile.png" width="45%" />
+  <img src="screenshots/login.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/signup.png" width="45%" />
+</p>
 
 ---
 
