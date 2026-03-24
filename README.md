@@ -30,6 +30,18 @@ A full-stack fitness tracking application to manage workouts, nutrition, and dai
 
 ---
 
+## 📸 Screenshot
+![App Screenshot](1. Base.png)
+![App Screenshot](2. Login.png)
+![App Screenshot](3. Signup.png)
+![App Screenshot](4. Dashboard.png)
+![App Screenshot](5. Workout.png)
+![App Screenshot](6. Nutrition.png)
+![App Screenshot](6. Progress.png)
+![App Screenshot](7. Profile.png)
+
+---
+
 ## 🔮 Future Improvements
 - Weekly analytics dashboard
 - Meal recommendations
